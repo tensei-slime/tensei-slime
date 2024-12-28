@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanshen</h1>
-<h3 align="center">A passionate student of **computer science**</h3>
+<h3 align="center">A passionate student of computer science</h3>
 
 - 🌱 I’m currently learning **programming**
 
 - 👨‍💻 All of my projects are available at [https://tensei-slime.github.io](https://tensei-slime.github.io)
 
 - 📫 How to reach me **Onemoment1234567@outlook.com**
-
-- ⚡ Fun fact **I think I am lazy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
