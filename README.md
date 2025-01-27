@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanshen</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16+&weight=600&size=25&pause=1000&color=41A8F7&width=435&lines=Hi%2C+I+am+Tanshen)](https://git.io/typing-svg)
 
 # 💫 About Me:
 <br>🌱 I’m currently learning Programming<br>
