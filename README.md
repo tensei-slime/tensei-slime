@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/tensei-slime/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tensei-slime/tensei-slime/output/snake.svg" alt="Snake animation" />
 
 ###
